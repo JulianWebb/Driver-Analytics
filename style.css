@@ -1,0 +1,26 @@
+body {
+  margin: 1vh 1vw;
+  background-color: rgb(45, 45, 45);
+  color: rgb(163, 88, 206);
+  font-family: "sans-serif";
+}
+ul,
+fieldset,
+legend {
+  border: 2px solid;
+  border-radius:  0.5em;
+  background-color: rgb(45,45,45);
+}
+ul {
+  padding: 0;
+  font-family: monospace;
+}
+li,
+legend {
+  list-style-type: none;
+  padding: 0.2em 0.5em;
+  background-color: rgb(78, 78, 78);
+}
+li:nth-of-type(even) {
+  background-color: inherit;
+}
