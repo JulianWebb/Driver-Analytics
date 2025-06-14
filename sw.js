@@ -1,4 +1,4 @@
-const VERSION = "v1";
+const VERSION = "vALPHA";
 const CACHE_NAME = `driver-analytics-${VERSION}`;
 
 const APP_STATIC_RESOURCES = [
