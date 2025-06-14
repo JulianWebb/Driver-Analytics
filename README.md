@@ -4,6 +4,8 @@
 PWA to help enable Service Workers in British Columbia to track datapoints such as mileage, engaged time, and recieved payments so that they may ensure their online platform is following Employement Standards.
 
 ## Project Plan
+Will be targeting Firefox on Android as this is currently a personal project and that's what I use.
+
 **In Scope**:
 - Offline-only
 - Data kept on user device
